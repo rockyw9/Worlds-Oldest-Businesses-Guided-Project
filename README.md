@@ -1,4 +1,4 @@
-Worlds-Oldest-Businesses-Guided-Project
+Worlds Oldest Businesses - Guided Project
 
 This is a guided project from Datacamp. The data was sourced from BusinessFinancing.co.uk.
 
